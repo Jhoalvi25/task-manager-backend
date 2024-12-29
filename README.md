@@ -32,7 +32,7 @@ npm install
 ```plaintext
 MONGO_URI=mongodb+srv://<db_user>:<db_password>@taskweb.1ygsf.mongodb.net/
 ```
-- MONGO_URI: URI de conexión a la base de datos MongoDB.
+- MONGO_URI: URI de conexión a la base de datos MongoDB, la mostrada es de ejemplo, generar su string de conexión.
 
 4.Iniciar el Servidor
 
