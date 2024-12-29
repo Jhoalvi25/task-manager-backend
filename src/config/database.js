@@ -1,11 +1,11 @@
 require("dotenv").config();
 const mongoose = require("mongoose");
-const { DB_USER, DB_PASSWORD } = process.env;
+const {MONGO_URI} = process.env;
 
 const connectDB = async () => {
   try {
     await mongoose.connect(
-      `mongodb+srv://${DB_USER}:${DB_PASSWORD}@taskweb.1ygsf.mongodb.net/`
+      `${MONGO_URI}`
     );
     console.log("Conexión a MongoDB exitosa");
   } catch (err) {
