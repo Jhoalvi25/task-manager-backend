@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este proyecto es un backend para un Task Manager desarrollado en Node.js, usando Express y MongoDB. Incluye validaciones con express-validator y documentación de la API con Swagger.
+Este proyecto es un backend y frontend para un Task Manager desarrollado en Node.js, usando Express y MongoDB. Incluye validaciones con express-validator y documentación de la API con Swagger. Del lado de fontend se utilizo React, Tailwind para los estilos y redux para el manejo de estados y conexión con el backend.
 
 ## Requisitos Previos
 
