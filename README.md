@@ -12,8 +12,7 @@ Este proyecto es un backend y frontend para un Task Manager desarrollado en Node
 
 ## Pasos para Correr el Proyecto en Local
 
-1. Clonar repositorio
-2. 
+1. Clonar repositorio 
 - Repositorio back-end: https://github.com/Jhoalvi25/task-manager-backend/tree/master
 
 
