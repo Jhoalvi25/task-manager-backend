@@ -38,7 +38,8 @@ MONGO_URI=mongodb+srv://<db_user>:<db_password>@taskweb.1ygsf.mongodb.net/
 ```bash
 node server.js
 ```
-Esto iniciará el servidor en http://localhost:3000.
+Esto iniciará el servidor en http://localhost:3000, este mensaje se mostrara en consola junto a otro mensaje "Conexión a MongoDB exitosa", si se realizo el paso anterior correctamente.
+
 
 5. Acceder a la Documentación Una vez iniciado el servidor, accede a Swagger en:
 
