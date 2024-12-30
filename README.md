@@ -31,7 +31,7 @@ npm install
 ```plaintext
 MONGO_URI=mongodb+srv://<db_user>:<db_password>@taskweb.1ygsf.mongodb.net/
 ```
-- MONGO_URI: URI de conexión a la base de datos MongoDB, la mostrada es de ejemplo, debe generar su string de conexión, este puede generarlo en Atlas DB en el siguiente enlace: https://www.mongodb.com/products/platform/atlas-database Inicia sesión, crea un clusters, da a la opción de conectar y genera su string de conexión.
+- MONGO_URI: URI de conexión a la base de datos MongoDB, la mostrada es de ejemplo, debe generar su string de conexión, este puede generarlo en Atlas DB en el siguiente enlace: https://www.mongodb.com/products/platform/atlas-database Inicia sesión, ya dentro del panel en las opciones de la izquierda, esta la opción de "Clusters", crea un Cluster, da click a la opción de conectar y genera tu string de conexión, para usarlo cambia <db_password> por la contraseña de tu user de Atlas DB .
 
 4.Iniciar el Servidor
 
